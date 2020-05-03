@@ -13,8 +13,6 @@ import "./styles.css";
 
 import Cell from "./components/Cell";
 
-console.log("hey");
-
 const client = new ApolloClient({
   uri: "https://zhgyt.sse.codesandbox.io/"
 });
